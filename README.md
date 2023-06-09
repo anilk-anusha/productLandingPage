@@ -1,1 +1,5 @@
-# productLandingPage
+# Product Landing Page - FreeCodeCamp Project - 16
+This project contains the following project from the Responsive Web Design certification. 
+1. Product Landing Page
+- Markup Language: HTML5
+- Style Sheet Language: CSS
